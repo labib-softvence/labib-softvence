@@ -33,19 +33,18 @@
 
 <br/>
 
-Building tools that make developers' lives easier.
-Passionate about distributed systems, developer experience, and the open-source ecosystem.
+Flutter Developer with proven expertise in building production-ready mobile applications for Google Play Store and Apple App Store. Specialized in real-time communication, AI integration, and scalable cross-platform solutions.
 
-**Currently at** Stellar Labs — San Francisco, CA
+**Currently at** Softvence — Dhaka, Bangladesh
 </details>
 
 <br/>
 
 <div align="center">
-  <a href="mailto:nyx@stellarlabs.dev">
+  <a href="mailto:labibur@softvence.com">
     <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/nyxorion/">
+  <a href="https://www.linkedin.com/in/labib-ur-rahman/">
     <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
   </a>
 </div>
