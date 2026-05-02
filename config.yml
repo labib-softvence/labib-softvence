@@ -15,13 +15,15 @@ username: labib-softvence
 # Profile information displayed in the galaxy header
 profile:
   name: "Md Labibur Rahman"
-  tagline: "Full Stack Developer & Open Source Explorer"
-  company: "Stellar Labs"
-  location: "San Francisco, CA"
+  tagline: "Mobile App Developer | Flutter | Dart | Kotlin | Java"
+  company: "Flutter Developer @ Softvence | Dhaka, Bangladesh"
+  location: "Mohakhali, Dhaka, Bangladesh"
   bio: |
-    Building tools that make developers' lives easier.
-    Passionate about distributed systems, developer experience, and the open-source ecosystem.
-  philosophy: '"The best code is the code that empowers others."'
+    Flutter Developer with proven expertise in building 
+    production-ready mobile applications for Google Play Store and Apple App Store. 
+    Specialized in real-time communication, AI integration, 
+    and scalable cross-platform solutions.
+  philosophy: '"Building scalable, user-centric apps with clean architecture"'
 
 # Social links displayed at the bottom of the profile
 social:
@@ -32,50 +34,26 @@ social:
 # Galaxy arms represent your core focus areas
 # Each arm spirals out from the center with its own color and tech items
 # Available colors: "synapse_cyan", "dendrite_violet", "axon_amber"
-# galaxy_arms:
-#   - name: "Frontend"
-#     color: "dendrite_violet"
-#     items:
-#       - "TypeScript"
-#       - "React"
-#       - "CSS"
-#   - name: "Backend"
-#     color: "synapse_cyan"
-#     items:
-#       - "Python"
-#       - "Node.js"
-#       - "PostgreSQL"
-#   - name: "DevOps"
-#     color: "axon_amber"
-#     items:
-#       - "Docker"
-#       - "GitHub Actions"
-#       - "AWS"
-
 galaxy_arms:
-  - name: "Mobile Development"
+  - name: "ProgrammingLanguages"
     color: "dendrite_violet"
     items:
-      - "Flutter"
-      - "Dart"
       - "Kotlin"
+      - "Dart"
       - "Java"
-      - "XML"
-
-  - name: "State Management"
+  - name: "MobileDevelopment"
     color: "synapse_cyan"
     items:
-      - "Riverpod"
+      - "Flutter"
       - "GetX"
-
-  - name: "Backend & Services"
+      - "Riverpod"
+  - name: "BackendServices"
     color: "axon_amber"
     items:
       - "Firebase"
       - "REST API"
-      - "Agora"
-      - "Stripe"
-      - "Git" 
+      - "PHP"
+
 
 # Featured projects shown as constellation stars
 # Each project needs:
@@ -83,12 +61,12 @@ galaxy_arms:
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
 projects:
-  - repo: "galaxy-dev/nebula-ui"
+  - repo: "labib-softvence/labib-softvence"
     arm: 0
-    description: "A component library with cosmic design tokens and dark-first theming."
-  - repo: "galaxy-dev/stargate-api"
+    description: "Islamic learning platform featuring audio recitation, translations, and optimized reading experience with focus on performance and accessibility."
+  - repo: "labib-softvence/labib-softvence"
     arm: 1
-    description: "High-performance API gateway with built-in observability and caching."
+    description: "AI-powered project and task management app with manual/AI project creation, collaboration, infinite subtasks, and real-time notifications for streamlined workflow."
 
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
