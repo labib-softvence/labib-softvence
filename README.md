@@ -139,10 +139,13 @@ Philosophy: Building scalable, user-centric apps with clean architecture
 </table>
 
 
-<div align="center">
+
   <h2 align="center"> 
     Profile Summary
   </h2>
+<table>
+  <tr>
+    <td align="center">
 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/developer-labibur/developer-labibur/output/snake.svg">
@@ -150,7 +153,9 @@ Philosophy: Building scalable, user-centric apps with clean architecture
 </picture>
 
   <a href="#"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=developer-labibur&theme=github-compact&hide_border=true&title=developer-labibur%20Activity%20Graph&line=00FF66&point=00FF66&bg_color=0d1117&color=00FF66" width="100%"/> </a>  
-</div>
+    </td>
+  </tr>
+</table>
 
 
 <a href="#">
