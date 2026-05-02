@@ -10,7 +10,7 @@
 #   python -m generator.main --demo
 
 # Your GitHub username (required)
-username: galaxy-dev
+username: labib-softvence
 
 # Profile information displayed in the galaxy header
 profile:
@@ -25,9 +25,9 @@ profile:
 
 # Social links displayed at the bottom of the profile
 social:
-  email: "nyx@stellarlabs.dev"
-  linkedin: "nyxorion"
-  website: "https://nyxorion.dev"
+  email: "labibur@softvence.com"
+  linkedin: "labib-ur-rahman"
+  website: "https://devlabib.web.app"
 
 # Galaxy arms represent your core focus areas
 # Each arm spirals out from the center with its own color and tech items
@@ -75,7 +75,7 @@ galaxy_arms:
       - "REST API"
       - "Agora"
       - "Stripe"
-      - "Git"
+      - "Git" 
 
 # Featured projects shown as constellation stars
 # Each project needs:
