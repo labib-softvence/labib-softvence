@@ -75,10 +75,6 @@ galaxy_arms:
       - "REST API"
       - "Agora"
       - "Stripe"
-
-  - name: "Tools & Workflow"
-    color: "neuron_green"
-    items:
       - "Git"
 
 # Featured projects shown as constellation stars
