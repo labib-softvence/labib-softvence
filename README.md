@@ -46,7 +46,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=developer-labibur&theme=tokyo-night&hide_border=false&title=developer-labibur%20Activity%20Graph&bg_color=0f1623&border_color=202F42&radius=12&title_color=ffffff&area=true&area_color=0297b7&color=64748b&days=31"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=developer-labibur&theme=tokyo-night&hide_border=false&title=developer-labibur%20Activity%20Graph&bg_color=0f1623&border_color=202F42&radius=15&title_color=ffffff&area=true&area_color=0297b7&color=64748b&days=31"/>
   </a>
 </div>
 
