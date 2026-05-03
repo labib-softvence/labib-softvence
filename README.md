@@ -44,32 +44,35 @@
 
 <br/>
 
-<div align="center" width="850px">
-      <a href="#">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=developer-labibur&theme=tokyo-night&hide_border=false&title=developer-labibur%20Activity%20Graph&bg_color=0f1623&border_color=202F42&radius=12&title_color=ffffff&area=true&area_color=0297b7&color=64748b&days=31"/>
-      </a>  
- </div>
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=developer-labibur&theme=tokyo-night&hide_border=false&title=developer-labibur%20Activity%20Graph&bg_color=0f1623&border_color=202F42&radius=12&title_color=ffffff&area=true&area_color=0297b7&color=64748b&days=31"/>
+  </a>
+</div>
 
 <br/>
+
 
 <div align="center">
   <!-- Rainbow divider -->
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-  <br/><br/>
 </div>
 
+<br/>
 
-<table>
+<table align="center">
   <tr>
-    <td align="center">
-  
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/developer-labibur/developer-labibur/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/developer-labibur/developer-labibur/output/snake.svg">
-</picture>
+    <td>
+       <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/developer-labibur/developer-labibur/output/snake.svg">
+           <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/developer-labibur/developer-labibur/output/snake.svg">
+       </picture>
     </td>
   </tr>
 </table>
+
+<br/>
+
 
 <details>
 <summary>
