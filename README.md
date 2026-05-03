@@ -58,7 +58,9 @@
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </div>
 
-<br/>
+<h2 align="center"> 
+  GitHub Streak
+</h2>
 
 <table align="center">
   <tr>
@@ -71,64 +73,8 @@
   </tr>
 </table>
 
-<br/>
-
-
-<details>
-<summary>
-   <table align="center">
-     <tr>
-       <td>
-           <strong>👇 Click to Expand My Profile 👇</strong>
-       </td>
-     </tr>
-   </table>
-</summary>   
-
-<br/>
-
-<!-- Header with animated gradient and 3D effect -->
-<p align="center">
-  <!-- Rainbow divider -->
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-  <br/><br/>
-     
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00B8D9&center=true&vCenter=true&width=700&lines=Assalamu+Alaikum,+This+is+Labib;A+Flutter+Developer;Kotlin+Enthusiast;Mobile+App+Specialist;" alt="Typing Animation" />
-  </a>
-</p>
-
-<!-- Visitor counter with snake animation -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=developer-labibur&label=Profile+Views&color=8A2BE2&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/developer-labibur?label=Followers&style=social&color=8A2BE2" alt="GitHub Followers"/>
-</p>
-
-<p align="center" style="font-size: 18px;">
-  Flutter Developer with proven expertise in building production-ready mobile applications for Google Play Store and Apple App Store.  
-  Specialized in real-time communication, AI integration, and scalable cross-platform solutions.
-</p>
-
-<p align="center">
-  <a href="https://devlabib.web.app">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-%230AA5FF.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-
-<h2 align="center">About Me</h2>
-
-```yaml
-Current Role: Flutter Developer @ Softvence | Dhaka, Bangladesh
-Experience: Delivered 2+ published apps on Play Store & App Store
-Specialization: Flutter, Real-time Communication (Agora), AI Integration, Payment Systems
-Education: BSc in Computer Science and Engineering, Uttara University (Ongoing)
-Philosophy: Building scalable, user-centric apps with clean architecture
-```
-
-
 <h2 align="center"> 
-  Published Applications
+  GitHub Streak
 </h2>
 
 <table>
@@ -167,25 +113,90 @@ Philosophy: Building scalable, user-centric apps with clean architecture
   </tr>
 </table>
 
+<br/>
 
+<details>
+<summary>
+   <table align="center">
+     <tr>
+       <td>
+           <strong>👇 Click to Expand My Profile 👇</strong>
+       </td>
+     </tr>
+   </table>
+</summary>   
 
-  <h2 align="center"> 
-    Profile Summary
-  </h2>
-<table>
-  <tr>
-    <td align="center">
+<br/>
 
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/developer-labibur/developer-labibur/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/developer-labibur/developer-labibur/output/snake.svg">
-</picture>
+<!-- Header with animated gradient and 3D effect -->
+<p align="center">
+  <!-- Rainbow divider -->
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+  <br/><br/>
+     
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00B8D9&center=true&vCenter=true&width=700&lines=Assalamu+Alaikum,+This+is+Labib;A+Flutter+Developer;Kotlin+Enthusiast;Mobile+App+Specialist;" alt="Typing Animation" />
+  </a>
+</p>
 
-  <a href="#"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=developer-labibur&theme=github-compact&hide_border=true&title=developer-labibur%20Activity%20Graph&line=00FF66&point=00FF66&bg_color=0d1117&color=00FF66" width="100%"/> </a>  
-    </td>
-  </tr>
-</table>
+<!-- Visitor counter with snake animation -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=developer-labibur&label=Profile+Views&color=8A2BE2&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/developer-labibur?label=Followers&style=social&color=8A2BE2" alt="GitHub Followers"/>
+</p>
 
+<p align="center" style="font-size: 18px;">
+  Flutter Developer with proven expertise in building production-ready mobile applications for Google Play Store and Apple App Store.  
+  Specialized in real-time communication, AI integration, and scalable cross-platform solutions.
+</p>
+
+<h2 align="center"> 
+  Portfolio
+</h2>
+
+<p align="center">
+  <a href="https://devlabib.web.app" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-%230AA5FF.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  Explore my portfolio of scalable mobile apps, clean architectures, and AI-powered solutions.
+</p>
+
+<h2 align="center"> 
+  About Me
+</h2>
+
+```yaml
+Current Role: Flutter Developer @ Softvence | Dhaka, Bangladesh
+Experience: Delivered 2+ published apps on Play Store & App Store
+Specialization: Flutter, Real-time Communication (Agora), AI Integration, Payment Systems
+Education: BSc in Computer Science and Engineering, Uttara University (Ongoing)
+Philosophy: Building scalable, user-centric apps with clean architecture
+```
+
+<h2 align="center"> 
+  Core Technologies
+</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/XML-%23FF6600.svg?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
+  
+  <img src="https://img.shields.io/badge/Riverpod-%2300C853.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Riverpod"/>
+  <img src="https://img.shields.io/badge/GetX-%23FF4081.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX"/>
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+  
+  <img src="https://img.shields.io/badge/REST%20API-%23013243.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Agora-%23099DFD.svg?style=for-the-badge&logo=agora&logoColor=white" alt="Agora"/>
+  <img src="https://img.shields.io/badge/Stripe-%23008CDD.svg?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
+
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
 
 <a href="#">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
