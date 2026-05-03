@@ -131,7 +131,7 @@
 <!-- Header with animated gradient and 3D effect -->
 <p align="center">
   <!-- Rainbow divider -->
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+  <a href="#"><img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"></a>
   <br/><br/>
      
   <a href="#">
